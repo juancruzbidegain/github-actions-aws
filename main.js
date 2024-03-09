@@ -16,7 +16,7 @@ document.querySelector('#app').innerHTML = `
       <button id="counter" type="button"></button>
     </div>
     <p class="read-the-docs">
-      version: v3
+      version: v4 ⚽
     </p>
   </div>
 `
